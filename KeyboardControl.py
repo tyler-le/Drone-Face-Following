@@ -2,7 +2,6 @@ import KeyPressModule as kp
 from djitellopy import tello
 import time
 
-
 kp.init()
 
 tello = tello.Tello()
